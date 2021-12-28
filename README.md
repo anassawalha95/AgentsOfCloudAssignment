@@ -47,9 +47,14 @@ Login Credentials : you will have 6 Users to login, 3 for Sellers and 3 for Buye
 Use: 
 
 Un: seller1@seller1.com pwd: seller1
+
 Un: seller1@seller1.com pwd: seller2
+
 Un: seller1@seller1.com pwd: seller3
 
 Un: buyer1@buyer1.com pwd: buyer1
+
 Un: buyer2@buyer2.com pwd: buyer2
+
 Un: buyer3@buyer3.com pwd: buyer3
+
