@@ -58,3 +58,21 @@ Un: buyer2@buyer2.com pwd: buyer2
 
 Un: buyer3@buyer3.com pwd: buyer3
 
+----
+
+Suggestions or Enhancements:
+
+1. Implement a middle server for authentication 
+2. Implement the json web token refersher 
+3. Implement Uuid and timestamp for each recored assertion or update
+4. Enhance the UI/UX
+5. Build a dashboard 
+6. Add the ability for users (buyers/sellers) to view edit delete their request 
+7. Add the ability for the user to update thier information
+8. Decoupling the database tables 
+9. Add the validation for the front end side  and back end side 
+10. Add start date and end date for the service buyer 
+11. refactor the react components
+
+
+
